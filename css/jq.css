@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+h2 {
+    text-align: center;
+    background-color: #93C47D;
+    padding: 8px;
+    color: white;
+}
+.add-skill {
+    margin: 10px auto;
+}
+
+input {
+    border: solid 1vh #93C47D;
+}
+
+button {
+    color: #93C47D;
+    border: solid 1vh #93C47D;
+    background: white;
+}
+
+.skills {
+    color: #FFBD5F;
+    font-weight: 500;
+    display: inline;
+}
